@@ -1,4 +1,5 @@
 # Repositorio do desafio de projeto sobre Git/Github 
-## links úteis 
+#Repositório criado para desafio de projeto. 
 
+## links úteis 
 [sintaxe basica markdow](https://www.markdownguide.org/basic-syntax/)
